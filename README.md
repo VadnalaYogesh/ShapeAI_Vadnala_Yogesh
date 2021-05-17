@@ -1,5 +1,4 @@
-c Web dev with Nodejs ReadMe
-# SHAPEAI WEB DEV WITH NODEJS BOOTCAMP
+# SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 
@@ -11,17 +10,15 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 
 <br><br>Here's the link for you to watch the sessions as well<br>
 
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbul748Yq6CTEnUzUfGE26AOA"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/JavaScriptandNodejs.png"> </a>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbune5TnrfBgFbxT87E98cfo9"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/Python_and_deep_learning.png"> </a>
 
 <br>I got to have hands on experience on:
 
-<li>HTML
+<li>Python
 
-<li>JavaScript
+<li>Tensorflow
 
-<li>Node.js
-
-<li>Express.js
+<li>Deep Learning
 
 <br>during these 7 days, and everything was explained from the very basics so that
 
